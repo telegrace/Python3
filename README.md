@@ -1,2 +1,2 @@
 # Python3
-Just my daily exercises for Learn Pyhton the Hard Way
+Just my daily exercises for Learn Python the Hard Way
